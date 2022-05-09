@@ -1,4 +1,4 @@
-# Source for [vamosgs.github.io](https://vamosgs.github.io/)
+# Source for [vamosgs.github.io](https://vamosgs.me/)
 ![Screenshot (Loved stack)](/readme_assets/heading.png)
 ### Pages
  * Loved stack
